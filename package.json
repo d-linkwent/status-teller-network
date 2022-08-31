@@ -1,7 +1,7 @@
 {
   "name": "status-teller-network",
   "version": "0.0.1",
-  "description": "",
+  "description": "![Teller.Exchange](https://raw.githubusercontent.com/status-im/status-teller-network/master/teller-logo.png?token=AABLEUFLVJ24SL7R6JIRXVS5T2MFI)",
   "scripts": {
     "lint": "eslint src/js/",
     "storybook": "start-storybook -p 9009",
@@ -18,7 +18,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": ".",
+  "homepage": "http://.",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.2.3",
@@ -52,7 +52,7 @@
     "clone-deep": "^4.0.1",
     "connected-react-router": "^6.8.0",
     "cryptocompare": "^1.0.0",
-    "cryptocurrency-icons": "embarklabs/cryptocurrency-icons#0.16.2",
+    "cryptocurrency-icons": "github:embarklabs/cryptocurrency-icons#0.16.2",
     "css-loader": "^3.4.2",
     "dompurify": "^2.0.8",
     "elliptic": "^6.5.2",
@@ -124,5 +124,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-linkwent/status-teller-network.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/d-linkwent/status-teller-network/issues"
+  }
 }
