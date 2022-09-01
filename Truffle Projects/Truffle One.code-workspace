@@ -5,5 +5,24 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"cryptocompare",
+			"datetime",
+			"dompurify",
+			"embarkjs",
+			"embarklabs",
+			"fontawesome",
+			"fortawesome",
+			"ipfs",
+			"languagedetector",
+			"qrcode",
+			"solium",
+			"tabookey",
+			"trailofbits",
+			"typeahead",
+			"webm",
+			"webp"
+		]
+	}
 }
